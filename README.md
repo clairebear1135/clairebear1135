@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Simple HTML & CSS
 - 📫 How to reach me: ... Through email
 - 😄 Pronouns: ... She/Her
-- ⚡ Fun fact: ... I love gaming and coding
+- ⚡ Fun fact: ... I've been using computers since I was 11 years old

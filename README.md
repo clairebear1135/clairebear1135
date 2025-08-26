@@ -5,10 +5,10 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... An associate's and later a bachelor's degree
-- 🌱 I’m currently learning ... HTML, CSS & JS
+- 🌱 I’m currently learning ... Frontend Stack
 - 👯 I’m looking to collaborate on ... Discord apps
 - 🤔 I’m looking for help with ... Algebra
-- 💬 Ask me about ... Simple HTML & CSS
+- 💬 Ask me about ... Simple HTML, CSS & JS
 - 📫 How to reach me: ... Through email
 - 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ... I've been using computers since I was 11 years old
